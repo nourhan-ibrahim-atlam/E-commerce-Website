@@ -1,6 +1,6 @@
 <h1>M&N Store - E-Commerce Website</h1>
 
-<img src="Images/logo-4.jpg" alt="M&N Store Logo" />
+<img src="Images/logo.jpg" alt="M&N Store Logo" />
 
 <p>A modern, responsive e-commerce platform built with HTML5, CSS3, and Bootstrap. M&N Store offers a seamless shopping experience with a curated collection of clothing and footwear.</p>
 
